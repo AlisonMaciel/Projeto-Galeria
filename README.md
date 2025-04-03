@@ -17,6 +17,6 @@
 
 <p>Basta clicar no link abaixo que será redirecionado para o projeto</p>
 
-<img src="[https://i.imgur.com/L4pOnMM.png](https://i.imgur.com/4v8wvqX.png)"/>
+<img src="https://i.imgur.com/4v8wvqX.png"/>
 
 🔗 [Acesse Cálculo de IMC](https://projetogaleria.netlify.app/)
